@@ -1,3 +1,12 @@
+
+Group Members and roles:
+
+1. Dickson Mbogo - Program Developer
+2. Elisha Jilo - Electrical Systems Developer
+3. Shem Koech - Mechanical Designer
+
+
+
 # UrbanBreathe
 
 Overview
