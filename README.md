@@ -44,3 +44,5 @@ Optionally transmitted to a remote server or cloud via Wi-Fi/GSM
 Continuous Monitoring
 The system performs regular sampling at set intervals. The loop ensures ongoing air status tracking and historical trend capture.
 
+Trello link
+https://trello.com/b/yV4AvyV6/team
